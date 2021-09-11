@@ -5,11 +5,11 @@ ExploreM is a web app, where you can come and explore more about mars with inter
 
 ## Live demo
 
-The site is deployed through Vercel, which you can view from [here]()
+The site is deployed through Vercel, which you can view from [here](https://explorem.vercel.app/)
 
 ## Demo video
 
-You can checkout the demo video on youtube by clicking [here]().
+You can checkout the demo video on youtube by clicking [here](https://youtu.be/EAMIKKqY5P4).
 
 ## 🚀 Main Features
 
