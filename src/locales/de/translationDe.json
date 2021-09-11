@@ -1,0 +1,32 @@
+{
+  "langName": "German",
+  "navDropLang": "Deutsche",
+
+  "navLinkHome": "Heim",
+  "navLinkRover": "Rover",
+  "navLinkDetails": "Einzelheiten",
+  "navChangeLang": "Sprache ändern",
+  "navSiteDetail": "Erkunde mit uns den Mars",
+
+  "modelView": "Um das 3D-Modell in AR anzuzeigen, scannen Sie den QR-Code oder klicken Sie auf die Schaltfläche unten.",
+  "modelViewInAR": "In AR anzeigen",
+
+  "SolarSystemExploreMars": "Mars",
+  "SolarSystemExploreMarsDesc": "Mars ist der vierte Planet von der Sonne und der zweitkleinste Planet im Sonnensystem, er ist größer als nur Merkur. Auf Englisch trägt der Mars den Namen des römischen Kriegsgottes und wird oft als Roter Planet bezeichnet. Der Mars ist kein Ort für schwache Nerven. Es ist trocken, steinig und bitterkalt. Der vierte Planet von der Sonne, Mars, ist einer der beiden nächsten planetaren Nachbarn der Erde (Venus ist der andere). Der Mars ist einer der am leichtesten zu erkennenden Planeten am Nachthimmel – er sieht aus wie ein leuchtend roter Lichtpunkt. Obwohl sie für Menschen unwirtlich sind, dienen Roboterforscher – wie der neue Perseverance-Rover der NASA – als Pfadfinder, um Menschen schließlich an die Oberfläche des Roten Planeten zu bringen.",
+
+  "detailsNamesake": "Namensvetterin",
+  "detailsNamesakeDetails": "Der Mars wurde von den alten Römern nach ihrem Kriegsgott benannt, weil seine rötliche Farbe an Blut erinnerte. Auch andere Zivilisationen nannten den Planeten nach diesem Attribut – die Ägypter nannten ihn beispielsweise Her Desher, was den roten bedeutet. Noch heute wird er häufig als Roter Planet bezeichnet, weil Eisenmineralien im Marsschmutz oxidieren oder rosten, wodurch die Oberfläche rot aussieht.",
+  "detailsPotenLife": "Potenzial für das Leben",
+  "detailsPotenLifeDesc": "Wissenschaftler erwarten nicht, dass derzeit Lebewesen auf dem Mars gedeihen. Stattdessen suchen sie nach Lebenszeichen, die vor langer Zeit existierten, als der Mars wärmer und mit Wasser bedeckt war.",
+  "detailsSize": "Größe und Entfernung",
+  "detailsSizeDesc": "Mit einem Radius von 2.106 Meilen (3.390 Kilometer) ist der Mars etwa halb so groß wie die Erde. Wenn die Erde die Größe eines Nickels hätte, wäre der Mars etwa so groß wie eine Himbeere. Aus einer durchschnittlichen Entfernung von 142 Millionen Meilen (228 Millionen Kilometer) ist der Mars 1,5 astronomische Einheiten von der Sonne entfernt. Eine astronomische Einheit (abgekürzt als AU) ist die Entfernung von der Sonne zur Erde. Aus dieser Entfernung braucht das Sonnenlicht 13 Minuten, um von der Sonne zum Mars zu gelangen.",
+  "detailsOrbit": "Umlaufbahn und Rotation",
+  "detailsOrbitDesc1": "Während der Mars die Sonne umkreist, vollzieht er alle 24,6 Stunden eine Umdrehung, was einem Tag auf der Erde (23,9 Stunden) sehr ähnlich ist. Marstage werden Sols genannt – kurz für Sonnentag. Ein Marsjahr dauert 669,6 Sol, was 687 Erdtagen entspricht.",
+  "detailsOrbitDesc2": "Die Rotationsachse des Mars ist gegenüber der Bahnebene um die Sonne um 25 Grad geneigt. Dies ist eine weitere Ähnlichkeit mit der Erde, die eine axiale Neigung von 23,4 Grad hat. Wie die Erde hat auch der Mars unterschiedliche Jahreszeiten, aber sie dauern länger als die Jahreszeiten hier auf der Erde, da der Mars länger braucht, um die Sonne zu umkreisen (weil er weiter entfernt ist). Und während hier auf der Erde die Jahreszeiten gleichmäßig über das Jahr verteilt sind und 3 Monate (oder ein Vierteljahr) dauern, variieren die Jahreszeiten auf dem Mars aufgrund der elliptischen, eiförmigen Umlaufbahn um die Sonne.",
+  "detailsOrbitDesc3": "Der Frühling auf der Nordhalbkugel (Herbst auf der Südhalbkugel) ist mit 194 Sonnen die längste Jahreszeit. Der Herbst auf der Nordhalbkugel (Frühling auf der Südhalbkugel) ist mit 142 Tagen der kürzeste. Der nördliche Winter/südliche Sommer beträgt 154 Sols und der nördliche Sommer/südliche Winter 178 Sols.",
+
+  "footerWith": "mit",
+  "footerAnd": "und",
+  "footerBy": "von",
+  "footerMyName": "Herschel Rackwar"
+}
